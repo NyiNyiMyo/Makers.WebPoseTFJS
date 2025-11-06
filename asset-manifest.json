@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Makers.WebPoseTFJS/static/css/main.56c00367.css",
+    "main.js": "/Makers.WebPoseTFJS/static/js/main.b3187123.js",
+    "index.html": "/Makers.WebPoseTFJS/index.html",
+    "main.56c00367.css.map": "/Makers.WebPoseTFJS/static/css/main.56c00367.css.map",
+    "main.b3187123.js.map": "/Makers.WebPoseTFJS/static/js/main.b3187123.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c00367.css",
+    "static/js/main.b3187123.js"
+  ]
+}
